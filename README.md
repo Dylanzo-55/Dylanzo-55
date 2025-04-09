@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dylan Thomas Mathews
+- 👋 Hi, I’m Dylan Thomas Mathews
 - 👀 I’m interested in: Video Games, Sports and Cars
 - 🌱 I’m currently learning: Python, Php, CSS , Javascript, packet tracer, VHDL , Delphi , assembly and C++
 
